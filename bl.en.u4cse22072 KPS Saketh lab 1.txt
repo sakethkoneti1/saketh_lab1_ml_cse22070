@@ -107,7 +107,6 @@ for row in matrix:
 print("\nTranspose of the matrix:")
 for row in result:
     print(row)
-PALGUN KUMAR REDDY P-[BL.EN.U4CSE22072]
+
 ​
-KONETI PAWAN SAI SAKETH-[BL.EN.U4CSE22070]
-​
+
